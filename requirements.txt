@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy<2
+matplotlib
+tqdm
+nuscenes-devkit
+opencv-python-headless
+pandas
+scipy
+pyquaternion
